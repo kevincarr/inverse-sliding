@@ -1,4 +1,4 @@
 inverse-sliding
 ===============
 
-These are a JavaScript (with jQuery) files for a navigation/title bar with inverse sliding.
+These are JavaScript (with jQuery) files for an inverse scrolling navigation/title bar.
